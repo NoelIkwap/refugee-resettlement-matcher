@@ -4,7 +4,7 @@
 
 
 
-An intelligent API system that matches refugees to suitable US states based on demographics, skills, education, and healthcare needs.
+An intelligent API system that uses past refugee resettlement data to match refugees to suitable countries based on demographics, skills, education, and healthcare needs.
 
 
 
