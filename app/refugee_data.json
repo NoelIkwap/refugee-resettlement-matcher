@@ -1,0 +1,1714 @@
+[
+  {
+    "name": "Refugee_Syrian_1",
+    "origin": "Syrian",
+    "languages": [
+      "Arabic",
+      "English",
+      "Spanish"
+    ],
+    "job_skills": [
+      "textiles",
+      "driving",
+      "construction"
+    ],
+    "education_level": "vocational",
+    "family_size": 4,
+    "health_requirements": [
+      "general"
+    ],
+    "mental_health_support_needed": false,
+    "cultural_background": "Syrian"
+  },
+  {
+    "name": "Refugee_Syrian_2",
+    "origin": "Syrian",
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "job_skills": [
+      "textiles",
+      "driving",
+      "construction"
+    ],
+    "education_level": "secondary",
+    "family_size": 4,
+    "health_requirements": [
+      "general"
+    ],
+    "mental_health_support_needed": true,
+    "cultural_background": "Syrian"
+  },
+  {
+    "name": "Refugee_Syrian_3",
+    "origin": "Syrian",
+    "languages": [
+      "Arabic",
+      "English",
+      "Spanish"
+    ],
+    "job_skills": [
+      "agriculture",
+      "textiles",
+      "driving"
+    ],
+    "education_level": "secondary",
+    "family_size": 3,
+    "health_requirements": [
+      "mental_health"
+    ],
+    "mental_health_support_needed": true,
+    "cultural_background": "Syrian"
+  },
+  {
+    "name": "Refugee_Syrian_4",
+    "origin": "Syrian",
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "job_skills": [
+      "textiles",
+      "agriculture",
+      "driving"
+    ],
+    "education_level": "vocational",
+    "family_size": 4,
+    "health_requirements": [
+      "general"
+    ],
+    "mental_health_support_needed": false,
+    "cultural_background": "Syrian"
+  },
+  {
+    "name": "Refugee_Syrian_5",
+    "origin": "Syrian",
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "job_skills": [
+      "driving",
+      "agriculture",
+      "construction"
+    ],
+    "education_level": "secondary",
+    "family_size": 2,
+    "health_requirements": [
+      "general"
+    ],
+    "mental_health_support_needed": true,
+    "cultural_background": "Syrian"
+  },
+  {
+    "name": "Refugee_Syrian_6",
+    "origin": "Syrian",
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "job_skills": [
+      "driving",
+      "construction",
+      "agriculture"
+    ],
+    "education_level": "secondary",
+    "family_size": 3,
+    "health_requirements": [
+      "mental_health",
+      "general"
+    ],
+    "mental_health_support_needed": false,
+    "cultural_background": "Syrian"
+  },
+  {
+    "name": "Refugee_Syrian_7",
+    "origin": "Syrian",
+    "languages": [
+      "French",
+      "Arabic",
+      "English"
+    ],
+    "job_skills": [
+      "agriculture",
+      "textiles",
+      "driving"
+    ],
+    "education_level": "vocational",
+    "family_size": 4,
+    "health_requirements": [
+      "general"
+    ],
+    "mental_health_support_needed": true,
+    "cultural_background": "Syrian"
+  },
+  {
+    "name": "Refugee_Syrian_8",
+    "origin": "Syrian",
+    "languages": [
+      "German",
+      "Arabic",
+      "English"
+    ],
+    "job_skills": [
+      "agriculture",
+      "construction",
+      "driving"
+    ],
+    "education_level": "vocational",
+    "family_size": 4,
+    "health_requirements": [
+      "general"
+    ],
+    "mental_health_support_needed": false,
+    "cultural_background": "Syrian"
+  },
+  {
+    "name": "Refugee_Syrian_9",
+    "origin": "Syrian",
+    "languages": [
+      "French",
+      "Arabic",
+      "English"
+    ],
+    "job_skills": [
+      "driving",
+      "textiles",
+      "construction"
+    ],
+    "education_level": "secondary",
+    "family_size": 4,
+    "health_requirements": [
+      "general"
+    ],
+    "mental_health_support_needed": true,
+    "cultural_background": "Syrian"
+  },
+  {
+    "name": "Refugee_Syrian_10",
+    "origin": "Syrian",
+    "languages": [
+      "French",
+      "Arabic",
+      "English"
+    ],
+    "job_skills": [
+      "construction",
+      "agriculture",
+      "textiles"
+    ],
+    "education_level": "secondary",
+    "family_size": 6,
+    "health_requirements": [
+      "general"
+    ],
+    "mental_health_support_needed": true,
+    "cultural_background": "Syrian"
+  },
+  {
+    "name": "Refugee_Syrian_11",
+    "origin": "Syrian",
+    "languages": [
+      "German",
+      "Arabic",
+      "English",
+      "Spanish"
+    ],
+    "job_skills": [
+      "textiles",
+      "agriculture",
+      "driving"
+    ],
+    "education_level": "secondary",
+    "family_size": 3,
+    "health_requirements": [
+      "general"
+    ],
+    "mental_health_support_needed": false,
+    "cultural_background": "Syrian"
+  },
+  {
+    "name": "Refugee_Syrian_12",
+    "origin": "Syrian",
+    "languages": [
+      "French",
+      "Arabic",
+      "English"
+    ],
+    "job_skills": [
+      "textiles",
+      "construction",
+      "driving"
+    ],
+    "education_level": "vocational",
+    "family_size": 4,
+    "health_requirements": [
+      "general",
+      "mental_health"
+    ],
+    "mental_health_support_needed": true,
+    "cultural_background": "Syrian"
+  },
+  {
+    "name": "Refugee_Syrian_13",
+    "origin": "Syrian",
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "job_skills": [
+      "textiles",
+      "construction",
+      "driving"
+    ],
+    "education_level": "vocational",
+    "family_size": 4,
+    "health_requirements": [
+      "general",
+      "mental_health"
+    ],
+    "mental_health_support_needed": true,
+    "cultural_background": "Syrian"
+  },
+  {
+    "name": "Refugee_Syrian_14",
+    "origin": "Syrian",
+    "languages": [
+      "French",
+      "Arabic",
+      "English"
+    ],
+    "job_skills": [
+      "driving",
+      "textiles",
+      "agriculture"
+    ],
+    "education_level": "secondary",
+    "family_size": 3,
+    "health_requirements": [
+      "mental_health"
+    ],
+    "mental_health_support_needed": true,
+    "cultural_background": "Syrian"
+  },
+  {
+    "name": "Refugee_Syrian_15",
+    "origin": "Syrian",
+    "languages": [
+      "French",
+      "Arabic",
+      "English"
+    ],
+    "job_skills": [
+      "driving",
+      "agriculture",
+      "construction"
+    ],
+    "education_level": "vocational",
+    "family_size": 4,
+    "health_requirements": [
+      "general"
+    ],
+    "mental_health_support_needed": false,
+    "cultural_background": "Syrian"
+  },
+  {
+    "name": "Refugee_Syrian_16",
+    "origin": "Syrian",
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "job_skills": [
+      "textiles",
+      "construction",
+      "agriculture"
+    ],
+    "education_level": "secondary",
+    "family_size": 2,
+    "health_requirements": [
+      "mental_health",
+      "general"
+    ],
+    "mental_health_support_needed": true,
+    "cultural_background": "Syrian"
+  },
+  {
+    "name": "Refugee_Syrian_17",
+    "origin": "Syrian",
+    "languages": [
+      "Arabic",
+      "English",
+      "Spanish"
+    ],
+    "job_skills": [
+      "textiles",
+      "driving",
+      "construction"
+    ],
+    "education_level": "secondary",
+    "family_size": 3,
+    "health_requirements": [
+      "mental_health",
+      "general"
+    ],
+    "mental_health_support_needed": true,
+    "cultural_background": "Syrian"
+  },
+  {
+    "name": "Refugee_Syrian_18",
+    "origin": "Syrian",
+    "languages": [
+      "Arabic",
+      "English",
+      "Spanish"
+    ],
+    "job_skills": [
+      "construction",
+      "textiles",
+      "agriculture"
+    ],
+    "education_level": "secondary",
+    "family_size": 4,
+    "health_requirements": [
+      "general"
+    ],
+    "mental_health_support_needed": false,
+    "cultural_background": "Syrian"
+  },
+  {
+    "name": "Refugee_Syrian_19",
+    "origin": "Syrian",
+    "languages": [
+      "Arabic",
+      "English",
+      "Spanish"
+    ],
+    "job_skills": [
+      "agriculture",
+      "driving",
+      "construction"
+    ],
+    "education_level": "vocational",
+    "family_size": 3,
+    "health_requirements": [
+      "general"
+    ],
+    "mental_health_support_needed": true,
+    "cultural_background": "Syrian"
+  },
+  {
+    "name": "Refugee_Syrian_20",
+    "origin": "Syrian",
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "job_skills": [
+      "driving",
+      "agriculture",
+      "construction"
+    ],
+    "education_level": "secondary",
+    "family_size": 3,
+    "health_requirements": [
+      "general"
+    ],
+    "mental_health_support_needed": true,
+    "cultural_background": "Syrian"
+  },
+  {
+    "name": "Refugee_Afghan_1",
+    "origin": "Afghan",
+    "languages": [
+      "Pashto",
+      "Dari",
+      "French"
+    ],
+    "job_skills": [
+      "agriculture",
+      "construction",
+      "handicrafts"
+    ],
+    "education_level": "primary",
+    "family_size": 6,
+    "health_requirements": [
+      "general"
+    ],
+    "mental_health_support_needed": true,
+    "cultural_background": "Afghan"
+  },
+  {
+    "name": "Refugee_Afghan_2",
+    "origin": "Afghan",
+    "languages": [
+      "Pashto",
+      "Dari",
+      "German"
+    ],
+    "job_skills": [
+      "agriculture",
+      "construction",
+      "handicrafts"
+    ],
+    "education_level": "secondary",
+    "family_size": 5,
+    "health_requirements": [
+      "general"
+    ],
+    "mental_health_support_needed": true,
+    "cultural_background": "Afghan"
+  },
+  {
+    "name": "Refugee_Afghan_3",
+    "origin": "Afghan",
+    "languages": [
+      "Pashto",
+      "Dari",
+      "German",
+      "Spanish"
+    ],
+    "job_skills": [
+      "agriculture",
+      "construction",
+      "handicrafts"
+    ],
+    "education_level": "primary",
+    "family_size": 4,
+    "health_requirements": [
+      "mental_health"
+    ],
+    "mental_health_support_needed": true,
+    "cultural_background": "Afghan"
+  },
+  {
+    "name": "Refugee_Afghan_4",
+    "origin": "Afghan",
+    "languages": [
+      "Pashto",
+      "Dari",
+      "English",
+      "German"
+    ],
+    "job_skills": [
+      "agriculture",
+      "construction",
+      "handicrafts"
+    ],
+    "education_level": "secondary",
+    "family_size": 5,
+    "health_requirements": [
+      "mental_health",
+      "general"
+    ],
+    "mental_health_support_needed": true,
+    "cultural_background": "Afghan"
+  },
+  {
+    "name": "Refugee_Afghan_5",
+    "origin": "Afghan",
+    "languages": [
+      "Pashto",
+      "Dari"
+    ],
+    "job_skills": [
+      "agriculture",
+      "construction",
+      "handicrafts"
+    ],
+    "education_level": "secondary",
+    "family_size": 7,
+    "health_requirements": [
+      "mental_health",
+      "general"
+    ],
+    "mental_health_support_needed": true,
+    "cultural_background": "Afghan"
+  },
+  {
+    "name": "Refugee_Afghan_6",
+    "origin": "Afghan",
+    "languages": [
+      "Pashto",
+      "Dari"
+    ],
+    "job_skills": [
+      "agriculture",
+      "construction",
+      "handicrafts"
+    ],
+    "education_level": "secondary",
+    "family_size": 4,
+    "health_requirements": [
+      "specialized"
+    ],
+    "mental_health_support_needed": false,
+    "cultural_background": "Afghan"
+  },
+  {
+    "name": "Refugee_Afghan_7",
+    "origin": "Afghan",
+    "languages": [
+      "Pashto",
+      "Dari",
+      "French"
+    ],
+    "job_skills": [
+      "agriculture",
+      "construction",
+      "handicrafts"
+    ],
+    "education_level": "secondary",
+    "family_size": 4,
+    "health_requirements": [
+      "general"
+    ],
+    "mental_health_support_needed": false,
+    "cultural_background": "Afghan"
+  },
+  {
+    "name": "Refugee_Afghan_8",
+    "origin": "Afghan",
+    "languages": [
+      "Pashto",
+      "Dari",
+      "French"
+    ],
+    "job_skills": [
+      "agriculture",
+      "construction",
+      "handicrafts"
+    ],
+    "education_level": "secondary",
+    "family_size": 4,
+    "health_requirements": [
+      "general"
+    ],
+    "mental_health_support_needed": false,
+    "cultural_background": "Afghan"
+  },
+  {
+    "name": "Refugee_Afghan_9",
+    "origin": "Afghan",
+    "languages": [
+      "Pashto",
+      "Dari"
+    ],
+    "job_skills": [
+      "agriculture",
+      "construction",
+      "handicrafts"
+    ],
+    "education_level": "primary",
+    "family_size": 5,
+    "health_requirements": [
+      "general"
+    ],
+    "mental_health_support_needed": true,
+    "cultural_background": "Afghan"
+  },
+  {
+    "name": "Refugee_Afghan_10",
+    "origin": "Afghan",
+    "languages": [
+      "Pashto",
+      "Dari",
+      "French",
+      "Spanish"
+    ],
+    "job_skills": [
+      "agriculture",
+      "construction",
+      "handicrafts"
+    ],
+    "education_level": "secondary",
+    "family_size": 5,
+    "health_requirements": [
+      "general"
+    ],
+    "mental_health_support_needed": true,
+    "cultural_background": "Afghan"
+  },
+  {
+    "name": "Refugee_Afghan_11",
+    "origin": "Afghan",
+    "languages": [
+      "Pashto",
+      "Dari",
+      "French",
+      "Spanish"
+    ],
+    "job_skills": [
+      "agriculture",
+      "construction",
+      "handicrafts"
+    ],
+    "education_level": "secondary",
+    "family_size": 4,
+    "health_requirements": [
+      "specialized"
+    ],
+    "mental_health_support_needed": true,
+    "cultural_background": "Afghan"
+  },
+  {
+    "name": "Refugee_Afghan_12",
+    "origin": "Afghan",
+    "languages": [
+      "Pashto",
+      "Dari",
+      "German"
+    ],
+    "job_skills": [
+      "agriculture",
+      "construction",
+      "handicrafts"
+    ],
+    "education_level": "primary",
+    "family_size": 6,
+    "health_requirements": [
+      "specialized",
+      "mental_health"
+    ],
+    "mental_health_support_needed": false,
+    "cultural_background": "Afghan"
+  },
+  {
+    "name": "Refugee_Afghan_13",
+    "origin": "Afghan",
+    "languages": [
+      "Pashto",
+      "Dari",
+      "Spanish"
+    ],
+    "job_skills": [
+      "agriculture",
+      "construction",
+      "handicrafts"
+    ],
+    "education_level": "secondary",
+    "family_size": 5,
+    "health_requirements": [
+      "general"
+    ],
+    "mental_health_support_needed": false,
+    "cultural_background": "Afghan"
+  },
+  {
+    "name": "Refugee_Afghan_14",
+    "origin": "Afghan",
+    "languages": [
+      "Pashto",
+      "Dari"
+    ],
+    "job_skills": [
+      "agriculture",
+      "construction",
+      "handicrafts"
+    ],
+    "education_level": "secondary",
+    "family_size": 4,
+    "health_requirements": [
+      "mental_health"
+    ],
+    "mental_health_support_needed": true,
+    "cultural_background": "Afghan"
+  },
+  {
+    "name": "Refugee_Afghan_15",
+    "origin": "Afghan",
+    "languages": [
+      "Pashto",
+      "Dari",
+      "German"
+    ],
+    "job_skills": [
+      "agriculture",
+      "construction",
+      "handicrafts"
+    ],
+    "education_level": "secondary",
+    "family_size": 6,
+    "health_requirements": [
+      "mental_health",
+      "general"
+    ],
+    "mental_health_support_needed": true,
+    "cultural_background": "Afghan"
+  },
+  {
+    "name": "Refugee_Afghan_16",
+    "origin": "Afghan",
+    "languages": [
+      "Pashto",
+      "Dari",
+      "German"
+    ],
+    "job_skills": [
+      "agriculture",
+      "construction",
+      "handicrafts"
+    ],
+    "education_level": "primary",
+    "family_size": 4,
+    "health_requirements": [
+      "general"
+    ],
+    "mental_health_support_needed": true,
+    "cultural_background": "Afghan"
+  },
+  {
+    "name": "Refugee_Afghan_17",
+    "origin": "Afghan",
+    "languages": [
+      "Pashto",
+      "Dari",
+      "French",
+      "Spanish"
+    ],
+    "job_skills": [
+      "agriculture",
+      "construction",
+      "handicrafts"
+    ],
+    "education_level": "secondary",
+    "family_size": 5,
+    "health_requirements": [
+      "mental_health"
+    ],
+    "mental_health_support_needed": true,
+    "cultural_background": "Afghan"
+  },
+  {
+    "name": "Refugee_Afghan_18",
+    "origin": "Afghan",
+    "languages": [
+      "Pashto",
+      "Dari"
+    ],
+    "job_skills": [
+      "agriculture",
+      "construction",
+      "handicrafts"
+    ],
+    "education_level": "secondary",
+    "family_size": 5,
+    "health_requirements": [
+      "general"
+    ],
+    "mental_health_support_needed": true,
+    "cultural_background": "Afghan"
+  },
+  {
+    "name": "Refugee_Afghan_19",
+    "origin": "Afghan",
+    "languages": [
+      "Pashto",
+      "Dari"
+    ],
+    "job_skills": [
+      "agriculture",
+      "construction",
+      "handicrafts"
+    ],
+    "education_level": "primary",
+    "family_size": 5,
+    "health_requirements": [
+      "general",
+      "mental_health"
+    ],
+    "mental_health_support_needed": false,
+    "cultural_background": "Afghan"
+  },
+  {
+    "name": "Refugee_Afghan_20",
+    "origin": "Afghan",
+    "languages": [
+      "Pashto",
+      "Dari",
+      "French",
+      "German"
+    ],
+    "job_skills": [
+      "agriculture",
+      "construction",
+      "handicrafts"
+    ],
+    "education_level": "secondary",
+    "family_size": 5,
+    "health_requirements": [
+      "general"
+    ],
+    "mental_health_support_needed": false,
+    "cultural_background": "Afghan"
+  },
+  {
+    "name": "Refugee_Ukrainian_1",
+    "origin": "Ukrainian",
+    "languages": [
+      "French",
+      "English",
+      "Ukrainian",
+      "Russian"
+    ],
+    "job_skills": [
+      "education",
+      "healthcare",
+      "engineering"
+    ],
+    "education_level": "bachelors",
+    "family_size": 2,
+    "health_requirements": [
+      "general"
+    ],
+    "mental_health_support_needed": false,
+    "cultural_background": "Ukrainian"
+  },
+  {
+    "name": "Refugee_Ukrainian_2",
+    "origin": "Ukrainian",
+    "languages": [
+      "German",
+      "French",
+      "Ukrainian",
+      "Russian"
+    ],
+    "job_skills": [
+      "technology",
+      "engineering",
+      "healthcare"
+    ],
+    "education_level": "secondary",
+    "family_size": 2,
+    "health_requirements": [
+      "general"
+    ],
+    "mental_health_support_needed": true,
+    "cultural_background": "Ukrainian"
+  },
+  {
+    "name": "Refugee_Ukrainian_3",
+    "origin": "Ukrainian",
+    "languages": [
+      "German",
+      "French",
+      "Ukrainian",
+      "Russian"
+    ],
+    "job_skills": [
+      "education",
+      "technology",
+      "healthcare"
+    ],
+    "education_level": "secondary",
+    "family_size": 3,
+    "health_requirements": [
+      "general"
+    ],
+    "mental_health_support_needed": true,
+    "cultural_background": "Ukrainian"
+  },
+  {
+    "name": "Refugee_Ukrainian_4",
+    "origin": "Ukrainian",
+    "languages": [
+      "German",
+      "Spanish",
+      "Ukrainian",
+      "Russian"
+    ],
+    "job_skills": [
+      "engineering",
+      "technology",
+      "healthcare"
+    ],
+    "education_level": "bachelors",
+    "family_size": 2,
+    "health_requirements": [
+      "general"
+    ],
+    "mental_health_support_needed": true,
+    "cultural_background": "Ukrainian"
+  },
+  {
+    "name": "Refugee_Ukrainian_5",
+    "origin": "Ukrainian",
+    "languages": [
+      "German",
+      "French",
+      "Ukrainian",
+      "Russian"
+    ],
+    "job_skills": [
+      "healthcare",
+      "technology",
+      "education"
+    ],
+    "education_level": "secondary",
+    "family_size": 3,
+    "health_requirements": [
+      "general"
+    ],
+    "mental_health_support_needed": true,
+    "cultural_background": "Ukrainian"
+  },
+  {
+    "name": "Refugee_Ukrainian_6",
+    "origin": "Ukrainian",
+    "languages": [
+      "German",
+      "Ukrainian",
+      "Russian"
+    ],
+    "job_skills": [
+      "education",
+      "engineering",
+      "healthcare"
+    ],
+    "education_level": "secondary",
+    "family_size": 2,
+    "health_requirements": [
+      "general"
+    ],
+    "mental_health_support_needed": true,
+    "cultural_background": "Ukrainian"
+  },
+  {
+    "name": "Refugee_Ukrainian_7",
+    "origin": "Ukrainian",
+    "languages": [
+      "German",
+      "Spanish",
+      "Ukrainian",
+      "Russian"
+    ],
+    "job_skills": [
+      "engineering",
+      "technology",
+      "healthcare"
+    ],
+    "education_level": "graduate",
+    "family_size": 3,
+    "health_requirements": [
+      "general"
+    ],
+    "mental_health_support_needed": true,
+    "cultural_background": "Ukrainian"
+  },
+  {
+    "name": "Refugee_Ukrainian_8",
+    "origin": "Ukrainian",
+    "languages": [
+      "German",
+      "English",
+      "Ukrainian",
+      "Russian"
+    ],
+    "job_skills": [
+      "technology",
+      "education",
+      "engineering"
+    ],
+    "education_level": "secondary",
+    "family_size": 2,
+    "health_requirements": [
+      "general"
+    ],
+    "mental_health_support_needed": true,
+    "cultural_background": "Ukrainian"
+  },
+  {
+    "name": "Refugee_Ukrainian_9",
+    "origin": "Ukrainian",
+    "languages": [
+      "German",
+      "French",
+      "Ukrainian",
+      "Russian"
+    ],
+    "job_skills": [
+      "healthcare",
+      "technology",
+      "education"
+    ],
+    "education_level": "secondary",
+    "family_size": 4,
+    "health_requirements": [
+      "general"
+    ],
+    "mental_health_support_needed": true,
+    "cultural_background": "Ukrainian"
+  },
+  {
+    "name": "Refugee_Ukrainian_10",
+    "origin": "Ukrainian",
+    "languages": [
+      "French",
+      "Ukrainian",
+      "Russian"
+    ],
+    "job_skills": [
+      "engineering",
+      "technology",
+      "healthcare"
+    ],
+    "education_level": "bachelors",
+    "family_size": 3,
+    "health_requirements": [
+      "general"
+    ],
+    "mental_health_support_needed": true,
+    "cultural_background": "Ukrainian"
+  },
+  {
+    "name": "Refugee_Ukrainian_11",
+    "origin": "Ukrainian",
+    "languages": [
+      "Ukrainian",
+      "Russian"
+    ],
+    "job_skills": [
+      "technology",
+      "education",
+      "engineering"
+    ],
+    "education_level": "graduate",
+    "family_size": 3,
+    "health_requirements": [
+      "general"
+    ],
+    "mental_health_support_needed": true,
+    "cultural_background": "Ukrainian"
+  },
+  {
+    "name": "Refugee_Ukrainian_12",
+    "origin": "Ukrainian",
+    "languages": [
+      "German",
+      "Ukrainian",
+      "Russian"
+    ],
+    "job_skills": [
+      "technology",
+      "engineering",
+      "healthcare"
+    ],
+    "education_level": "secondary",
+    "family_size": 2,
+    "health_requirements": [
+      "general"
+    ],
+    "mental_health_support_needed": true,
+    "cultural_background": "Ukrainian"
+  },
+  {
+    "name": "Refugee_Ukrainian_13",
+    "origin": "Ukrainian",
+    "languages": [
+      "German",
+      "Spanish",
+      "Ukrainian",
+      "Russian"
+    ],
+    "job_skills": [
+      "education",
+      "healthcare",
+      "engineering"
+    ],
+    "education_level": "secondary",
+    "family_size": 4,
+    "health_requirements": [
+      "general"
+    ],
+    "mental_health_support_needed": true,
+    "cultural_background": "Ukrainian"
+  },
+  {
+    "name": "Refugee_Ukrainian_14",
+    "origin": "Ukrainian",
+    "languages": [
+      "Ukrainian",
+      "Russian"
+    ],
+    "job_skills": [
+      "technology",
+      "healthcare",
+      "engineering"
+    ],
+    "education_level": "secondary",
+    "family_size": 3,
+    "health_requirements": [
+      "general"
+    ],
+    "mental_health_support_needed": true,
+    "cultural_background": "Ukrainian"
+  },
+  {
+    "name": "Refugee_Ukrainian_15",
+    "origin": "Ukrainian",
+    "languages": [
+      "German",
+      "Ukrainian",
+      "Russian"
+    ],
+    "job_skills": [
+      "healthcare",
+      "engineering",
+      "technology"
+    ],
+    "education_level": "graduate",
+    "family_size": 2,
+    "health_requirements": [
+      "general"
+    ],
+    "mental_health_support_needed": true,
+    "cultural_background": "Ukrainian"
+  },
+  {
+    "name": "Refugee_Ukrainian_16",
+    "origin": "Ukrainian",
+    "languages": [
+      "English",
+      "Ukrainian",
+      "Russian"
+    ],
+    "job_skills": [
+      "healthcare",
+      "engineering",
+      "education"
+    ],
+    "education_level": "secondary",
+    "family_size": 4,
+    "health_requirements": [
+      "general"
+    ],
+    "mental_health_support_needed": false,
+    "cultural_background": "Ukrainian"
+  },
+  {
+    "name": "Refugee_Ukrainian_17",
+    "origin": "Ukrainian",
+    "languages": [
+      "French",
+      "English",
+      "Ukrainian",
+      "Russian"
+    ],
+    "job_skills": [
+      "technology",
+      "healthcare",
+      "engineering"
+    ],
+    "education_level": "secondary",
+    "family_size": 4,
+    "health_requirements": [
+      "general"
+    ],
+    "mental_health_support_needed": true,
+    "cultural_background": "Ukrainian"
+  },
+  {
+    "name": "Refugee_Ukrainian_18",
+    "origin": "Ukrainian",
+    "languages": [
+      "English",
+      "Ukrainian",
+      "Russian"
+    ],
+    "job_skills": [
+      "technology",
+      "education",
+      "healthcare"
+    ],
+    "education_level": "secondary",
+    "family_size": 2,
+    "health_requirements": [
+      "general"
+    ],
+    "mental_health_support_needed": true,
+    "cultural_background": "Ukrainian"
+  },
+  {
+    "name": "Refugee_Ukrainian_19",
+    "origin": "Ukrainian",
+    "languages": [
+      "French",
+      "Spanish",
+      "Ukrainian",
+      "Russian"
+    ],
+    "job_skills": [
+      "engineering",
+      "technology",
+      "education"
+    ],
+    "education_level": "bachelors",
+    "family_size": 3,
+    "health_requirements": [
+      "general"
+    ],
+    "mental_health_support_needed": false,
+    "cultural_background": "Ukrainian"
+  },
+  {
+    "name": "Refugee_Ukrainian_20",
+    "origin": "Ukrainian",
+    "languages": [
+      "Spanish",
+      "French",
+      "Ukrainian",
+      "Russian"
+    ],
+    "job_skills": [
+      "engineering",
+      "technology",
+      "education"
+    ],
+    "education_level": "bachelors",
+    "family_size": 4,
+    "health_requirements": [
+      "general"
+    ],
+    "mental_health_support_needed": false,
+    "cultural_background": "Ukrainian"
+  },
+  {
+    "name": "Refugee_Somali_1",
+    "origin": "Somali",
+    "languages": [
+      "French",
+      "Arabic",
+      "Somali",
+      "Spanish"
+    ],
+    "job_skills": [
+      "livestock",
+      "fishing",
+      "small_business"
+    ],
+    "education_level": "primary",
+    "family_size": 6,
+    "health_requirements": [
+      "general"
+    ],
+    "mental_health_support_needed": false,
+    "cultural_background": "Somali"
+  },
+  {
+    "name": "Refugee_Somali_2",
+    "origin": "Somali",
+    "languages": [
+      "German",
+      "Arabic",
+      "Somali"
+    ],
+    "job_skills": [
+      "livestock",
+      "fishing",
+      "small_business"
+    ],
+    "education_level": "secondary",
+    "family_size": 6,
+    "health_requirements": [
+      "specialized",
+      "general"
+    ],
+    "mental_health_support_needed": true,
+    "cultural_background": "Somali"
+  },
+  {
+    "name": "Refugee_Somali_3",
+    "origin": "Somali",
+    "languages": [
+      "Arabic",
+      "Somali"
+    ],
+    "job_skills": [
+      "livestock",
+      "fishing",
+      "small_business"
+    ],
+    "education_level": "secondary",
+    "family_size": 7,
+    "health_requirements": [
+      "general"
+    ],
+    "mental_health_support_needed": true,
+    "cultural_background": "Somali"
+  },
+  {
+    "name": "Refugee_Somali_4",
+    "origin": "Somali",
+    "languages": [
+      "Arabic",
+      "Somali",
+      "Spanish"
+    ],
+    "job_skills": [
+      "livestock",
+      "fishing",
+      "small_business"
+    ],
+    "education_level": "secondary",
+    "family_size": 8,
+    "health_requirements": [
+      "general",
+      "specialized"
+    ],
+    "mental_health_support_needed": true,
+    "cultural_background": "Somali"
+  },
+  {
+    "name": "Refugee_Somali_5",
+    "origin": "Somali",
+    "languages": [
+      "German",
+      "French",
+      "Arabic",
+      "Somali"
+    ],
+    "job_skills": [
+      "livestock",
+      "fishing",
+      "small_business"
+    ],
+    "education_level": "primary",
+    "family_size": 5,
+    "health_requirements": [
+      "general"
+    ],
+    "mental_health_support_needed": true,
+    "cultural_background": "Somali"
+  },
+  {
+    "name": "Refugee_Somali_6",
+    "origin": "Somali",
+    "languages": [
+      "German",
+      "Arabic",
+      "Somali",
+      "Spanish"
+    ],
+    "job_skills": [
+      "livestock",
+      "fishing",
+      "small_business"
+    ],
+    "education_level": "primary",
+    "family_size": 6,
+    "health_requirements": [
+      "specialized"
+    ],
+    "mental_health_support_needed": true,
+    "cultural_background": "Somali"
+  },
+  {
+    "name": "Refugee_Somali_7",
+    "origin": "Somali",
+    "languages": [
+      "French",
+      "Arabic",
+      "Somali",
+      "Spanish"
+    ],
+    "job_skills": [
+      "livestock",
+      "fishing",
+      "small_business"
+    ],
+    "education_level": "primary",
+    "family_size": 6,
+    "health_requirements": [
+      "specialized"
+    ],
+    "mental_health_support_needed": false,
+    "cultural_background": "Somali"
+  },
+  {
+    "name": "Refugee_Somali_8",
+    "origin": "Somali",
+    "languages": [
+      "Arabic",
+      "Somali"
+    ],
+    "job_skills": [
+      "livestock",
+      "fishing",
+      "small_business"
+    ],
+    "education_level": "primary",
+    "family_size": 6,
+    "health_requirements": [
+      "general"
+    ],
+    "mental_health_support_needed": false,
+    "cultural_background": "Somali"
+  },
+  {
+    "name": "Refugee_Somali_9",
+    "origin": "Somali",
+    "languages": [
+      "German",
+      "French",
+      "Arabic",
+      "Somali"
+    ],
+    "job_skills": [
+      "livestock",
+      "fishing",
+      "small_business"
+    ],
+    "education_level": "secondary",
+    "family_size": 6,
+    "health_requirements": [
+      "specialized",
+      "general"
+    ],
+    "mental_health_support_needed": true,
+    "cultural_background": "Somali"
+  },
+  {
+    "name": "Refugee_Somali_10",
+    "origin": "Somali",
+    "languages": [
+      "German",
+      "French",
+      "Arabic",
+      "Somali"
+    ],
+    "job_skills": [
+      "livestock",
+      "fishing",
+      "small_business"
+    ],
+    "education_level": "secondary",
+    "family_size": 5,
+    "health_requirements": [
+      "general",
+      "specialized"
+    ],
+    "mental_health_support_needed": true,
+    "cultural_background": "Somali"
+  },
+  {
+    "name": "Refugee_Somali_11",
+    "origin": "Somali",
+    "languages": [
+      "French",
+      "Arabic",
+      "English",
+      "Somali"
+    ],
+    "job_skills": [
+      "livestock",
+      "fishing",
+      "small_business"
+    ],
+    "education_level": "primary",
+    "family_size": 4,
+    "health_requirements": [
+      "specialized"
+    ],
+    "mental_health_support_needed": false,
+    "cultural_background": "Somali"
+  },
+  {
+    "name": "Refugee_Somali_12",
+    "origin": "Somali",
+    "languages": [
+      "Arabic",
+      "Somali"
+    ],
+    "job_skills": [
+      "livestock",
+      "fishing",
+      "small_business"
+    ],
+    "education_level": "primary",
+    "family_size": 5,
+    "health_requirements": [
+      "specialized"
+    ],
+    "mental_health_support_needed": false,
+    "cultural_background": "Somali"
+  },
+  {
+    "name": "Refugee_Somali_13",
+    "origin": "Somali",
+    "languages": [
+      "Arabic",
+      "English",
+      "Somali",
+      "Spanish"
+    ],
+    "job_skills": [
+      "livestock",
+      "fishing",
+      "small_business"
+    ],
+    "education_level": "secondary",
+    "family_size": 8,
+    "health_requirements": [
+      "general"
+    ],
+    "mental_health_support_needed": true,
+    "cultural_background": "Somali"
+  },
+  {
+    "name": "Refugee_Somali_14",
+    "origin": "Somali",
+    "languages": [
+      "Arabic",
+      "Somali"
+    ],
+    "job_skills": [
+      "livestock",
+      "fishing",
+      "small_business"
+    ],
+    "education_level": "secondary",
+    "family_size": 7,
+    "health_requirements": [
+      "specialized",
+      "general"
+    ],
+    "mental_health_support_needed": false,
+    "cultural_background": "Somali"
+  },
+  {
+    "name": "Refugee_Somali_15",
+    "origin": "Somali",
+    "languages": [
+      "French",
+      "Arabic",
+      "Somali",
+      "Spanish"
+    ],
+    "job_skills": [
+      "livestock",
+      "fishing",
+      "small_business"
+    ],
+    "education_level": "primary",
+    "family_size": 7,
+    "health_requirements": [
+      "specialized",
+      "general"
+    ],
+    "mental_health_support_needed": true,
+    "cultural_background": "Somali"
+  },
+  {
+    "name": "Refugee_Somali_16",
+    "origin": "Somali",
+    "languages": [
+      "French",
+      "Arabic",
+      "English",
+      "Somali"
+    ],
+    "job_skills": [
+      "livestock",
+      "fishing",
+      "small_business"
+    ],
+    "education_level": "primary",
+    "family_size": 6,
+    "health_requirements": [
+      "specialized",
+      "general"
+    ],
+    "mental_health_support_needed": true,
+    "cultural_background": "Somali"
+  },
+  {
+    "name": "Refugee_Somali_17",
+    "origin": "Somali",
+    "languages": [
+      "Arabic",
+      "English",
+      "Somali"
+    ],
+    "job_skills": [
+      "livestock",
+      "fishing",
+      "small_business"
+    ],
+    "education_level": "secondary",
+    "family_size": 5,
+    "health_requirements": [
+      "specialized",
+      "general"
+    ],
+    "mental_health_support_needed": true,
+    "cultural_background": "Somali"
+  },
+  {
+    "name": "Refugee_Somali_18",
+    "origin": "Somali",
+    "languages": [
+      "Arabic",
+      "English",
+      "Somali",
+      "Spanish"
+    ],
+    "job_skills": [
+      "livestock",
+      "fishing",
+      "small_business"
+    ],
+    "education_level": "primary",
+    "family_size": 5,
+    "health_requirements": [
+      "general",
+      "specialized"
+    ],
+    "mental_health_support_needed": true,
+    "cultural_background": "Somali"
+  },
+  {
+    "name": "Refugee_Somali_19",
+    "origin": "Somali",
+    "languages": [
+      "French",
+      "Arabic",
+      "Somali",
+      "Spanish"
+    ],
+    "job_skills": [
+      "livestock",
+      "fishing",
+      "small_business"
+    ],
+    "education_level": "primary",
+    "family_size": 6,
+    "health_requirements": [
+      "specialized",
+      "general"
+    ],
+    "mental_health_support_needed": true,
+    "cultural_background": "Somali"
+  },
+  {
+    "name": "Refugee_Somali_20",
+    "origin": "Somali",
+    "languages": [
+      "German",
+      "Arabic",
+      "Somali"
+    ],
+    "job_skills": [
+      "livestock",
+      "fishing",
+      "small_business"
+    ],
+    "education_level": "secondary",
+    "family_size": 7,
+    "health_requirements": [
+      "general"
+    ],
+    "mental_health_support_needed": true,
+    "cultural_background": "Somali"
+  }
+]
